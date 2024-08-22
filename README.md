@@ -1,5 +1,5 @@
 # Cardiotocography_Classification
-This machine learning solution utilizes both Random Forest and Gradient Boosting classifiers to categorize fetal health states into three distinct classes: Normal, Suspect, and Pathological. 
+This machine learning solution utilizes both Random Forest and Gradient Boosting classifiers to categorize fetal health states into three distinct classes: **Normal**, **Suspect**, and **Pathological**. 
 
 To successfully run the models included in this repository and view their outputs, please follow the steps outlined below:
 
